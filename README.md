@@ -1,4 +1,8 @@
-## Hey 👋, I'm Matin Afzal!  
+<p align="center">
+<a href="https://github.com/drkostas">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Matin+Afzal+Asr;Researcher+%7C+Computer+Engineering+Student+%7C+IT+PenTester;AI+%7C+Backend+%7C+Bots" alt="Typing SVG" />
+</a>
+<br/>
   
 
 <a href="https://github.com/MatinAfzal" target="_blank">
@@ -11,27 +15,25 @@
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
   
+* 📖 Computer engineering student at Azad Islamic University. 
 
+* 🎓 Programmer and researcher in the field of AI, hacking, security and penetration testing.
 
+* 💻 Currently working on more security tools.
 
-### Glad to see you here!  
-Penetration tester and ethical hacker, interested in the field of network security, developer and creator of security tools,  Python programmer and....  
+## Repositories
   
+| Security-Tools        | Games |
+| ------------- |:-------------:| 
+| [Localmap](http://github.com/MatinAfzal/Localmap)     | [TheJumonRunner](https://github.com/MatinAfzal/TheJumonRunner)|
 
-<br/>  
-
-<table><tr><td valign="top" width="50%">
-
-- 🔎 My last security tool: [Localmap](http://github.com/MatinAfzal/Localmap)  
-  
+ ## Contact me:
 
 - ✉️ My E-mail: contact.matin@yahoo.com  
-  
 
 - 📢 My Discord: [MatinNASA#7836](https://discord.com/invite/MatinNASA#7836)  
 
 - 📢 My Telegram: [@SudoNmap](https://t.me/SudoNmap)
-
 
 </td><td valign="top" width="50%">
 
@@ -39,18 +41,16 @@ Penetration tester and ethical hacker, interested in the field of network securi
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
 
-
 </td></tr></table>  
-
 <br/>  
 
-
-## My field of knowledge
+## Field of knowledge
 <div align="center">  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>   
+<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
+<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a> 
 </div>  
 
 <br/>  
