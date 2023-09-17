@@ -33,7 +33,7 @@
 | Security-Tools        | Games | Tools |
 | ------------- |:-------------:| -------------
 | [Localmap](http://github.com/MatinAfzal/Localmap)     | [TheJumonRunner](https://github.com/MatinAfzal/TheJumonRunner)| [KeysBox](https://github.com/MatinAfzal/KeysBox) |
-| [Detective Frame Work](https://github.com/MatinAfzal/Detective) |
+| [Detective Frame Work](https://github.com/MatinAfzal/Detective) | | [CalCul](https://github.com/MatinAfzal/CalCul)|
 
  ## Contact me:
 
