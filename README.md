@@ -4,8 +4,17 @@
 </a>
 <br/>
   
-* 📖 Computer engineering student at Azad Islamic University. 
+* 📖 Computer engineering student at Azad Islamic University.
 
+
+## Projects
+
+<p align="center">
+  <img src="https://github.com/MatinAfzal/3DICU/assets/128434167/b88d37b6-3135-4314-b1cf-9b5804876794" />
+</p>
+
+<h3 align="center">An open source implementation of 3D Computer Universe</h3>
+<h3 align="center">Click Here (https://github.com/MatinAfzal/3DICU)</h3>
 
 ## Repositories
   
