@@ -4,10 +4,7 @@
 </a>
 <br/>
   
-* 📖 Computer engineering student
-
-
-## Projects
+## PROJECTS
 
 <p align="center">
   <img src="https://github.com/MatinAfzal/3DICU/assets/128434167/b88d37b6-3135-4314-b1cf-9b5804876794" />
