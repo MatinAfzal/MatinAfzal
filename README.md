@@ -17,8 +17,8 @@
   
 | Security | AI/Machine Learning | Games | Tools |
 | ------------- |:-------------:| ------------- |:------------
-| [Localmap](http://github.com/MatinAfzal/Localmap) | [IRIS-GUI](https://github.com/MatinAfzal/IRIS-GUI) | [TheJumonRunner](https://github.com/MatinAfzal/TheJumonRunner)| [KeysBox](https://github.com/MatinAfzal/KeysBox) |
-| | | | [CalCul](https://github.com/MatinAfzal/CalCul)|
+| [Localmap](http://github.com/MatinAfzal/Localmap) | [IRIS-GUI](https://github.com/MatinAfzal/IRIS-GUI) | [3DICU](https://github.com/MatinAfzal/3DICU)| [KeysBox](https://github.com/MatinAfzal/KeysBox) |
+| | |[TheJumonRunner](https://github.com/MatinAfzal/TheJumonRunner)| [CalCul](https://github.com/MatinAfzal/CalCul)|
 
  ## Contact me:
 
