@@ -4,7 +4,7 @@
 </a>
 <br/>
   
-* 📖 Computer engineering student at Azad Islamic University.
+* 📖 Computer engineering student
 
 
 ## Projects
