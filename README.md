@@ -5,13 +5,31 @@
 <br/>
   
 ## Projects
-
+- 3DICU
 <p align="center">
   <img src="https://github.com/MatinAfzal/3DICU/assets/128434167/b88d37b6-3135-4314-b1cf-9b5804876794" />
 </p>
 
 <h3 align="center">An open source implementation of 3D Computer Universe</h3>
-<h3 align="center">Click Here (https://github.com/MatinAfzal/3DICU)</h3>
+<h3 align="center">Click Here (https://github.com/MatinAfzal/3DICU)</h3>   
+
+ - IRIS-GUI
+
+<p align="center">
+  <img src="https://github.com/MatinAfzal/MatinAfzal/assets/128434167/3dbf7c52-9d04-4ee3-a847-f59f68e42cc8" />
+</p>
+
+<h3 align="center">IRIS-GUI A graphical machine learning program</h3>
+<h3 align="center">Click Here (https://github.com/MatinAfzal/IRIS-GUI)</h3>
+
+- LOCAL MAP
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/128434167/229272012-e59fce87-cb72-4582-95c8-caafe7963219.png" />
+</p>
+
+<h3 align="center">localmap is a security tool for scanning the local network</h3>
+<h3 align="center">Click Here (https://github.com/MatinAfzal/Localmap)</h3>
 
 ## Repositories
   
