@@ -5,6 +5,11 @@
 <br/>
   
 ## Projects
+- Float Arts Engine
+<p align="center">
+  <img src="https://github.com/MatinAfzal/FloatArtsEngine/assets/128434167/42982404-a063-48e7-a053-773736f843f1" />
+</p>
+
 - 3DICU
 <p align="center">
   <img src="https://github.com/MatinAfzal/3DICU/assets/128434167/b88d37b6-3135-4314-b1cf-9b5804876794" />
