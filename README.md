@@ -1,55 +1,32 @@
-<p align="center">
-<a href="https://github.com/drkostas">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=100&lines=Matin+Afzal+Asr;Computer+Engineering+Student+%7C+Software Developer+" alt="Typing SVG" />
-</a>
-<br/>
-  
-## Projects
+Hello! 
+I am Matin, a <strong>programmer and software engineer</strong>.
 
-- 3DICU
-<p align="center">
-  <img src="https://github.com/MatinAfzal/3DICU/assets/128434167/b88d37b6-3135-4314-b1cf-9b5804876794" />
-</p>
+My interest is in computer software/hardware.
+I spend most of my time programming, researching, and learning in related fields.
+You can find a list of my projects in the following readme.
 
-<h3 align="center">An open source implementation of 3D Computer Universe</h3>
-<h3 align="center">Click Here (https://github.com/MatinAfzal/3DICU)</h3>   
+My fields of activity include <strong>programming and developing different software, machine learning, machine vision, artificial intelligence, data science, penetration testing</strong> etc.
+I started at the age of 15 when I started working with KaliLinux and researched and learned penetration testing tools such as SqlMap, Nmap, Metasploit, and many others.
+I continued this path and at the age of 20, I found myself writing my 3D rendering engine.
 
- - IRIS-GUI
+Below you can find a list of my projects
 
-<p align="center">
-  <img src="https://github.com/MatinAfzal/MatinAfzal/assets/128434167/3dbf7c52-9d04-4ee3-a847-f59f68e42cc8" />
-</p>
+[<strong>3DICU</strong>](https://github.com/MatinAfzal/3DICU): An open source implementation of 3D Computer Universe based on FA-Engine.
 
-<h3 align="center">IRIS-GUI A graphical machine learning program</h3>
-<h3 align="center">Click Here (https://github.com/MatinAfzal/IRIS-GUI)</h3>
+[<strong>Float Arts Engine (FA-Engine)</strong>](https://github.com/MatinAfzal/FloatArtsEngine): OpenGL Python 3D Engine, A complete voxel engine with different capabilities and features.
 
-- LOCAL MAP
+[<strong>Localmap</strong>](http://github.com/MatinAfzal/Localmap): localmap is a security tool for scanning the local network This tool can find all active hosts in a network and their specifications such as name - Open ports - MAC address - Mac manufacturer and Operating system.
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/128434167/229272012-e59fce87-cb72-4582-95c8-caafe7963219.png" />
-</p>
+[<strong>IRIS-GUI</strong>](https://github.com/MatinAfzal/IRIS-GUI): A graphical machine learning program written with tkinter and scikit-learn library.
 
-<h3 align="center">localmap is a security tool for scanning the local network</h3>
-<h3 align="center">Click Here (https://github.com/MatinAfzal/Localmap)</h3>
+[<strong>The Jumon Runner</strong>](https://github.com/MatinAfzal/TheJumonRunner): the jumon runner It is a game made with pygame library In this game, the main character named Matin must try to escape from the spells (Jumons) and try to survive.
 
-## Repositories
-  
-| Security | AI/Machine Learning | Games | Tools |
-| ------------- |:-------------:| ------------- |:------------
-| [Localmap](http://github.com/MatinAfzal/Localmap) | [IRIS-GUI](https://github.com/MatinAfzal/IRIS-GUI) | [3DICU](https://github.com/MatinAfzal/3DICU)| [KeysBox](https://github.com/MatinAfzal/KeysBox) |
-| | |[TheJumonRunner](https://github.com/MatinAfzal/TheJumonRunner)| [CalCul](https://github.com/MatinAfzal/CalCul)|
+[<strong>KeysBox</strong>](https://github.com/MatinAfzal/KeysBox): A password manager written in Python language that encrypts and stores your information with fernet.
 
- ## Contact me:
+[<strong>CalCul</strong>](https://github.com/MatinAfzal/CalCul): Engineering calculator using Python tkinter.
 
-- ✉️ My E-mail: contact.matin@yahoo.com  
+A screenshot of [<strong>3DICU</strong>](https://github.com/MatinAfzal/3DICU):
 
-</td><td valign="top" width="50%">
+![3DICU_Screenshot1](https://github.com/MatinAfzal/3DICU/assets/128434167/9a1a3d19-8475-4d27-9280-13d635cc2bdd)
 
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
-</td></tr></table>  
-<br/>  
-
-<br/>  
+You can contact me by email: contact.matin@yahoo.com
