@@ -13,7 +13,7 @@ Below you can find a list of my projects
 
 - 2024:
   
-  [<strong>3DICU</strong>](https://github.com/MatinAfzal/3DICU): An open source implementation of 3D Computer Universe based on FA-Engine.
+  [<strong>OpenUniverse</strong>](https://github.com/MatinAfzal/OpenUniverse): An open source implementation of 3D Computer Universe based on FA-Engine.
 
   [<strong>Float Arts Engine (FA-Engine)</strong>](https://github.com/MatinAfzal/FloatArtsEngine): OpenGL Python 3D Engine, A complete voxel engine with different capabilities and features.
 
