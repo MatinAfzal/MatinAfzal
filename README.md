@@ -1,5 +1,5 @@
-Hello! 
-I am Matin, a <strong>programmer and software engineer</strong>.
+Hi! 
+I'm Matin, a <strong>programmer and software engineer</strong>.
 
 My interest is in computer software/hardware.
 I spend most of my time programming, researching, and learning in related fields.
@@ -8,6 +8,7 @@ You can find a list of my projects in the following readme.
 My fields of activity include <strong>programming and developing different software, machine learning, machine vision, artificial intelligence, data science, penetration testing</strong> etc.
 I started at the age of 15 when I started working with KaliLinux and researched and learned penetration testing tools such as SqlMap, Nmap, Metasploit, and many others.
 I continued this path and at the age of 20, I found myself writing my 3D rendering engine.
+
 
 Below you can find a list of my projects
 
