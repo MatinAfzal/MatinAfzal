@@ -1,22 +1,25 @@
-Hi! 
-I'm Matin, a <strong>programmer and software engineer</strong>.
+# Hi! I'm Matin
+### programmer and software engineer.
+The areas of my activity are as follows:
+- Build and develop various interesting hardware/software projects.
+- Research and study in various fields of computers/technology.
+- Production of programming content. [YouTube](https://www.youtube.com/@MatinAfzal)
+- Creation of various open-source projects for the growth of the programming community.
 
-My interest is in computer software/hardware.
-I spend most of my time programming, researching, and learning in related fields.
-You can find a list of my projects in the following readme.
+I started working with KaliLinux at the age of 15, and I researched and learned penetration testing tools such as SqlMap, Nmap, Metasploit, and many others. I continued this path and at the age of 20, I found myself writing my 3D rendering engine.
 
-My fields of activity include <strong>programming and developing different software, machine learning, machine vision, artificial intelligence, data science, penetration testing</strong> etc.
-I started at the age of 15 when I started working with KaliLinux and researched and learned penetration testing tools such as SqlMap, Nmap, Metasploit, and many others.
-I continued this path and at the age of 20, I found myself writing my 3D rendering engine.
 
+<a href="http://www.coffeete.ir/MatinAfzal">
+       <img src="http://www.coffeete.ir/images/buttons/lemonchiffon.png" style="width:260px;" />
+</a>
 
 Below you can find a list of my projects
 
 - 2024:
   
-  [<strong>OpenUniverse</strong>](https://github.com/MatinAfzal/OpenUniverse): An open source implementation of 3D Computer Universe based on FA-Engine.
+  [<strong>OpenUniverse</strong>](https://github.com/MatinAfzal/OpenUniverse): An open source implementation of 3D Computer Universe based on FA-Engine. ⭐⭐⭐
 
-  [<strong>Float Arts Engine (FA-Engine)</strong>](https://github.com/MatinAfzal/FloatArtsEngine): OpenGL Python 3D Engine, A complete voxel engine with different capabilities and features.
+  [<strong>Float Arts Engine (FA-Engine)</strong>](https://github.com/MatinAfzal/FloatArtsEngine): OpenGL Python 3D Engine, A complete voxel engine with different capabilities and features. ⭐⭐
 
   [<strong>IRIS-GUI</strong>](https://github.com/MatinAfzal/IRIS-GUI): A graphical machine learning program written with tkinter and scikit-learn library.
   
@@ -38,8 +41,8 @@ Below you can find a list of my projects
 
 
 
-A screenshot of [<strong>3DICU</strong>](https://github.com/MatinAfzal/3DICU):
+A screenshot of [<strong>OpenUniverse</strong>](https://github.com/MatinAfzal/OpenUniverse):
 
-![3DICU_Screenshot1](https://github.com/MatinAfzal/3DICU/assets/128434167/9a1a3d19-8475-4d27-9280-13d635cc2bdd)
+![OpenUniverse Screenshot1](https://github.com/MatinAfzal/3DICU/assets/128434167/9a1a3d19-8475-4d27-9280-13d635cc2bdd)
 
 You can contact me by email: contact.matin@yahoo.com
