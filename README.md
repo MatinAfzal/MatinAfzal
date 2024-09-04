@@ -1,14 +1,11 @@
 # Hi! I'm Matin
 ### programmer and software engineer.
-The areas of my activity are as follows:
-- Build and develop various interesting hardware/software projects.
-- Research and study in various fields of computers/technology.
-- Production of programming content. [YouTube](https://www.youtube.com/@MatinAfzal)
-- Creation of various open-source projects for the growth of the programming community.
-
 I started working with KaliLinux at the age of 15, and I researched and learned penetration testing tools such as SqlMap, Nmap, Metasploit, and many others. I continued this path and at the age of 20, I found myself writing my 3D rendering engine.
 
-
+<a href="https://www.patreon.com/bePatron?u=137227435">
+       <img src="https://github.com/user-attachments/assets/a5c7dae4-daf9-45b6-9d63-a57ef9f897b1" style="width:230px;" />
+</a>
+<br>
 <a href="http://www.coffeete.ir/MatinAfzal">
        <img src="http://www.coffeete.ir/images/buttons/lemonchiffon.png" style="width:260px;" />
 </a>
