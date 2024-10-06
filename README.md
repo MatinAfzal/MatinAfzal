@@ -1,45 +1,34 @@
-# Hi! I'm Matin
-### programmer and software engineer.
-I started working with KaliLinux at the age of 15, and I researched and learned penetration testing tools such as SqlMap, Nmap, Metasploit, and many others. I continued this path and at the age of 20, I found myself writing my 3D rendering engine.
-
+## Support My Work
 <a href="https://www.patreon.com/bePatron?u=137227435">
-       <img src="https://github.com/user-attachments/assets/a5c7dae4-daf9-45b6-9d63-a57ef9f897b1" style="width:230px;" />
+    <img src="https://github.com/user-attachments/assets/a5c7dae4-daf9-45b6-9d63-a57ef9f897b1" style="width:230px;" alt="Support me on Patreon" />
 </a>
 <br>
 <a href="http://www.coffeete.ir/MatinAfzal">
-       <img src="http://www.coffeete.ir/images/buttons/lemonchiffon.png" style="width:260px;" />
+    <img src="http://www.coffeete.ir/images/buttons/lemonchiffon.png" style="width:260px;" alt="Buy me a coffee" />
 </a>
 
-Below you can find a list of my projects
+### 2024 Projects
+- **[CPP Until I Lose My Mind](https://github.com/MatinAfzal/CPP_Until_I_lose_My_Mind)**: A series of C++ programs ranging from simple to complex, created for my YouTube channel.
 
-- 2024:
+- **[OpenUniverse](https://github.com/MatinAfzal/OpenUniverse)**: An open-source implementation of a 3D Computer Universe based on FA-Engine. ⭐
   
-  [<strong>OpenUniverse</strong>](https://github.com/MatinAfzal/OpenUniverse): An open source implementation of 3D Computer Universe based on FA-Engine. ⭐⭐⭐
-
-  [<strong>Float Arts Engine (FA-Engine)</strong>](https://github.com/MatinAfzal/FloatArtsEngine): OpenGL Python 3D Engine, A complete voxel engine with different capabilities and features. ⭐⭐
-
-  [<strong>IRIS-GUI</strong>](https://github.com/MatinAfzal/IRIS-GUI): A graphical machine learning program written with tkinter and scikit-learn library.
+- **[Float Arts Engine (FA-Engine)](https://github.com/MatinAfzal/FloatArtsEngine)**: OpenGL Python 3D Engine, a complete voxel engine with various capabilities and features.
   
-- 2023:
+- **[IRIS-GUI](https://github.com/MatinAfzal/IRIS-GUI)**: A graphical machine learning program written using Tkinter and the scikit-learn library.
+
+### 2023 Projects
+- **[The Jumon Runner](https://github.com/MatinAfzal/TheJumonRunner)**: A game made with the Pygame library where the main character, Matin, must escape from spells (Jumons) to survive.
   
-  [<strong>The Jumon Runner</strong>](https://github.com/MatinAfzal/TheJumonRunner): the jumon runner It is a game made with pygame library In this game, the main character named Matin must try to escape from the spells (Jumons) and try to survive.
-  
-  [<strong>KeysBox</strong>](https://github.com/MatinAfzal/KeysBox): A password manager written in Python language that encrypts and stores your information with fernet.
+- **[KeysBox](https://github.com/MatinAfzal/KeysBox)**: A password manager written in Python that encrypts and stores your information using Fernet.
 
-  [<strong>CalCul</strong>](https://github.com/MatinAfzal/CalCul): Engineering calculator using Python tkinter.
+- **[CalCul](https://github.com/MatinAfzal/CalCul)**: An engineering calculator built with Python and Tkinter.
 
-  [<strong>Localmap</strong>](http://github.com/MatinAfzal/Localmap): localmap is a security tool for scanning the local network This tool can find all active hosts in a network and their specifications such as name - Open ports - MAC address - Mac manufacturer and Operating system.
-  
+- **[Localmap](http://github.com/MatinAfzal/Localmap)**: A security tool for scanning local networks, capable of finding all active hosts, open ports, MAC addresses, manufacturers, and operating systems.
 
+## Project Showcase
+A screenshot of **[OpenUniverse](https://github.com/MatinAfzal/OpenUniverse)**:
 
+![OpenUniverse Screenshot](https://github.com/MatinAfzal/3DICU/assets/128434167/9a1a3d19-8475-4d27-9280-13d635cc2bdd)
 
-
-
-
-
-
-A screenshot of [<strong>OpenUniverse</strong>](https://github.com/MatinAfzal/OpenUniverse):
-
-![OpenUniverse Screenshot1](https://github.com/MatinAfzal/3DICU/assets/128434167/9a1a3d19-8475-4d27-9280-13d635cc2bdd)
-
-You can contact me by email: contact.matin@yahoo.com
+## Contact Me
+You can reach me via email: [contact.matin@yahoo.com](mailto:contact.matin@yahoo.com)
