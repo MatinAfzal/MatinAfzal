@@ -7,6 +7,9 @@
     <img src="http://www.coffeete.ir/images/buttons/lemonchiffon.png" style="width:260px;" alt="Buy me a coffee" />
 </a>
 
+### 2025 Projects
+- **[We Can Make This Game Better](https://github.com/MatinAfzal/Alien-invasion)**: Exciting open-source project to collaboratively improve and evolve Alien Invasion.
+
 ### 2024 Projects
 - **[One File 3D World](https://github.com/MatinAfzal/OneFile_3DWorld)**: Simple OpenGL C++ project rendering 3D shapes with basic lighting and textures.
 
