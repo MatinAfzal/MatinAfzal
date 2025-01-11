@@ -1,7 +1,3 @@
-## Support My Work
-<a href="https://www.patreon.com/bePatron?u=137227435">
-    <img src="https://github.com/user-attachments/assets/a5c7dae4-daf9-45b6-9d63-a57ef9f897b1" style="width:230px;" alt="Support me on Patreon" />
-</a>
 <br>
 <a href="http://www.coffeete.ir/MatinAfzal">
     <img src="http://www.coffeete.ir/images/buttons/lemonchiffon.png" style="width:260px;" alt="Buy me a coffee" />
