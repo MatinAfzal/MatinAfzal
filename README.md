@@ -30,6 +30,7 @@
 
 | Year | Project Title | Description | Stars |
 |------|---------------|-------------|-------|
+| **2025** | [RustMaster](https://github.com/MatinAfzal/RustMaster) | Repository for programming simple to complex Rust projects. | ![⭐Stars Count](https://img.shields.io/github/stars/MatinAfzal/RustMaster?label=⭐Stars&style=flat&color=yellow) |
 | **2025** | [We Can Make This Game Better](https://github.com/MatinAfzal/Alien-invasion) | Exciting open-source project to collaboratively improve and evolve Alien Invasion. | ![⭐Stars Count](https://img.shields.io/github/stars/MatinAfzal/Alien-invasion?label=⭐Stars&style=flat&color=yellow) |
 | **2024** | [One File 3D World](https://github.com/MatinAfzal/OneFile_3DWorld) | Simple OpenGL C++ project rendering 3D shapes with basic lighting and textures. | ![⭐Stars Count](https://img.shields.io/github/stars/MatinAfzal/OneFile_3DWorld?label=⭐Stars&style=flat&color=yellow) |
 | **2024** | [CPP Until I Lose My Mind](https://github.com/MatinAfzal/CPP_Until_I_lose_My_Mind) | A series of C++ programs ranging from simple to complex, created for my YouTube channel. | ![⭐Stars Count](https://img.shields.io/github/stars/MatinAfzal/CPP_Until_I_lose_My_Mind?label=⭐Stars&style=flat&color=yellow) |
@@ -37,10 +38,6 @@
 | **2024** | [Float Arts Engine (FA-Engine)](https://github.com/MatinAfzal/FloatArtsEngine) | OpenGL Python 3D Engine, a complete voxel engine with various capabilities and features. | ![⭐Stars Count](https://img.shields.io/github/stars/MatinAfzal/FloatArtsEngine?label=⭐Stars&style=flat&color=yellow) |
 | **2024** | [IRIS-GUI](https://github.com/MatinAfzal/IRIS-GUI) | A graphical machine learning program written using Tkinter and the scikit-learn library. | ![⭐Stars Count](https://img.shields.io/github/stars/MatinAfzal/IRIS-GUI?label=⭐Stars&style=flat&color=yellow) |
 | **2023** | [The Jumon Runner](https://github.com/MatinAfzal/TheJumonRunner) | A game made with the Pygame library where the main character, Matin, must escape from spells (Jumons) to survive. | ![⭐Stars Count](https://img.shields.io/github/stars/MatinAfzal/TheJumonRunner?label=⭐Stars&style=flat&color=yellow) |
-| **2023** | [KeysBox](https://github.com/MatinAfzal/KeysBox) | A password manager written in Python that encrypts and stores your information using Fernet. | ![⭐Stars Count](https://img.shields.io/github/stars/MatinAfzal/KeysBox?label=⭐Stars&style=flate&color=yellow) |
+| **2023** | [KeysBox](https://github.com/MatinAfzal/KeysBox) | A password manager written in Python that encrypts and stores your information using Fernet. | ![⭐Stars Count](https://img.shields.io/github/stars/MatinAfzal/KeysBox?label=⭐Stars&style=flat&color=yellow) |
 | **2023** | [CalCul](https://github.com/MatinAfzal/CalCul) | An engineering calculator built with Python and Tkinter. | ![⭐Stars Count](https://img.shields.io/github/stars/MatinAfzal/CalCul?label=⭐Stars&style=flat&color=yellow) |
 | **2023** | [Localmap](http://github.com/MatinAfzal/Localmap) | A security tool for scanning local networks, capable of finding all active hosts, open ports, MAC addresses, manufacturers, and operating systems. | ![⭐Stars Count](https://img.shields.io/github/stars/MatinAfzal/Localmap?label=⭐Stars&style=flat&color=yellow) |
-
-
-
-
