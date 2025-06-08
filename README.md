@@ -30,6 +30,7 @@
 
 | Year | Project Title | Description | Stars |
 |------|---------------|-------------|-------|
+| **2025** | [Chaos-In-HolyC](https://github.com/MatinAfzal/Chaos-In-HolyC) | HolyC, from a simple HelloWorld to God knows where... | ![⭐Stars Count](https://img.shields.io/github/stars/MatinAfzal/Chaos-In-HolyC?label=⭐Stars&style=flat&color=yellow) |
 | **2025** | [RustMaster](https://github.com/MatinAfzal/RustMaster) | F around in Rust and find out, Simple To Complex Projects. | ![⭐Stars Count](https://img.shields.io/github/stars/MatinAfzal/RustMaster?label=⭐Stars&style=flat&color=yellow) |
 | **2025** | [We Can Make This Game Better](https://github.com/MatinAfzal/Alien-invasion) |Remaking the classic Eric Matthes Alien Invasion. | ![⭐Stars Count](https://img.shields.io/github/stars/MatinAfzal/Alien-invasion?label=⭐Stars&style=flat&color=yellow) |
 | **2024** | [One File 3D World](https://github.com/MatinAfzal/OneFile_3DWorld) | Simple OpenGL/C++ project rendering 3D shapes with basic lighting and textures. | ![⭐Stars Count](https://img.shields.io/github/stars/MatinAfzal/OneFile_3DWorld?label=⭐Stars&style=flat&color=yellow) |
