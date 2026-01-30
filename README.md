@@ -25,7 +25,7 @@
 <p align="center">
   <img src="https://github.com/MatinAfzal/3DICU/assets/128434167/9a1a3d19-8475-4d27-9280-13d635cc2bdd" width="300" style="margin: 10px;">
   <img src="https://github.com/user-attachments/assets/2cd391cb-1ac1-4c08-807e-3d7d0ff5968c" width="300" style="margin: 10px;">
-  <img src="https://github.com/user-attachments/assets/7f646e7a-abab-4acc-96d5-0156e6187a89" width="300" style="margin: 10px;">
+  <img src="https://github.com/user-attachments/assets/f7c470ae-b7d0-4998-af34-2afc1d5962a4" width="300" style="margin: 10px;">
 </p>
 
 | Year | Project Title | Description | Stars |
