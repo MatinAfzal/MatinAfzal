@@ -30,6 +30,7 @@
 
 | Year | Project Title | Description | Stars |
 |------|---------------|-------------|-------|
+| **2026** | [HashHush](https://github.com/MatinAfzal/HashHush) | Cryptography tool to keep your identity secure on the internet with chained hash pages. | ![⭐Stars Count](https://img.shields.io/github/stars/MatinAfzal/HashHush?label=⭐Stars&style=flat&color=yellow) |
 | **2025** | [Chaos-In-HolyC](https://github.com/MatinAfzal/Chaos-In-HolyC) | HolyC, from a simple HelloWorld to God knows where... | ![⭐Stars Count](https://img.shields.io/github/stars/MatinAfzal/Chaos-In-HolyC?label=⭐Stars&style=flat&color=yellow) |
 | **2025** | [RustMaster](https://github.com/MatinAfzal/RustMaster) | F around in Rust and find out, Simple To Complex Projects. | ![⭐Stars Count](https://img.shields.io/github/stars/MatinAfzal/RustMaster?label=⭐Stars&style=flat&color=yellow) |
 | **2025** | [We Can Make This Game Better](https://github.com/MatinAfzal/Alien-invasion) |Remaking the classic Eric Matthes Alien Invasion. | ![⭐Stars Count](https://img.shields.io/github/stars/MatinAfzal/Alien-invasion?label=⭐Stars&style=flat&color=yellow) |
