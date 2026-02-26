@@ -28,7 +28,7 @@
   <img src="https://github.com/user-attachments/assets/f7c470ae-b7d0-4998-af34-2afc1d5962a4" width="300" style="margin: 10px;">
 </p>
 
-| Year | Project Title | Description | Stars |
+| Year | Title | Description | Stars |
 |------|---------------|-------------|-------|
 | **2026** | [FixedPointMath](https://github.com/MatinAfzal/FixedPointMath) | Simple Fixed Point Math C++ Header Only Library. | ![⭐Stars Count](https://img.shields.io/github/stars/MatinAfzal/FixedPointMath?label=⭐Stars&style=flat&color=yellow) |
 | **2026** | [HashHush](https://github.com/MatinAfzal/HashHush) | Cryptography tool to keep your identity secure on the internet with chained hash pages. | ![⭐Stars Count](https://img.shields.io/github/stars/MatinAfzal/HashHush?label=⭐Stars&style=flat&color=yellow) |
